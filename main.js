@@ -6,8 +6,10 @@
 
 // @uthor: Yorch_Adalberto
 
-const dayWeather = ['sunny', 'rainning', 'cloudy', 'stormy', 'snowing', 'windy', 'romantic', 'beautiful', 'cold', 'hot'];
-const things = [];
+const dayWeather = ['sunny', 'rainning', 'cloudy', 'stormy', 'snowy', 
+                    'windy', 'romantic', 'beautiful', 'cold', 'hot'];
+const things = ['hat or a cap', 'umbrella', 'jacket', 'raincoat', 'sweater', 
+                'short', 'tuxedo', 'suit', 'beany', 't-shirt'];
 const avoidingThings = [];
 
 console.log(dayWeather);
