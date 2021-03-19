@@ -8,8 +8,9 @@
 
 const dayWeather = ['sunny', 'rainning', 'cloudy', 'stormy', 'snowy', 
                     'windy', 'romantic', 'beautiful', 'cold', 'hot'];
-const things = ['hat or a cap', 'umbrella', 'jacket', 'raincoat', 'sweater', 
+const cloaths = ['hat or a cap', 'umbrella', 'jacket', 'raincoat', 'sweater', 
                 'short', 'tuxedo', 'suit', 'beany', 't-shirt'];
-const avoidingThings = [];
+const placesToGo = ['park', 'home', 'forest', 'shelter', 'mountain', 'downtown',
+                    'restaurant', 'movie theater', 'lake', 'beach'];
 
 console.log(dayWeather);
